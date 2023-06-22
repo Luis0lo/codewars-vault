@@ -16,16 +16,16 @@
 
 function validateBet(game, text){
  
-    const [N, M] = game;
-    const numbers = text.split(/[,\s]+/);
-  
-    if (numbers.length !== N)return null;
-  
-    const uniqueNumbers = [...new Set(numbers)];
-  
-    if (uniqueNumbers.length !== N || uniqueNumbers.some(num => !/^\d+$/.test(num) || num < 1 || num > M)) {
-      return null;
-    }
-  
-    return uniqueNumbers.map(Number).sort((a, b) => a - b);
+  const [N, M] = game;
+  const numbers = text.split(/[,\s]+/);
+
+  if (numbers.length !== N)return null;
+
+  const uniqueNumbers = [...new Set(numbers)];
+
+  if (uniqueNumbers.length !== N || uniqueNumbers.some(num => !/^\d+$/.test(num) || num < 1 || num > M)) {
+    return null;
   }
+
+  return uniqueNumbers.map(Number).sort((a, b) => a - b);
+}
