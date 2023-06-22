@@ -6,5 +6,4 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Drink About](https://www.codewars.com/kata/56170e844da7c6f647000063/train/javascript
-)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/DrinkAbout.js)|8 kyu|
+|1|[Drink About](https://www.codewars.com/kata/56170e844da7c6f647000063/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/DrinkAbout.js)|8 kyu|
