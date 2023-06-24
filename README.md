@@ -15,3 +15,4 @@
 |6|[The Office III - Broken Photocopier](https://www.codewars.com/kata/57ed56657b45ef922300002b/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/theOfficeIII-BrokenPhotocopier.js)|7 kyu|
 |7|[The Office IV - Find Meeting Room](https://www.codewars.com/kata/57f604a21bd4fe771b00009c/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/theOfficeIV-FindAMeetingRoom.js)|7 kyu|
 |8|[The Office IV - Find a Chair](https://www.codewars.com/kata/57f6051c3ff02f3b7300008b/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/theOfficeV-FindChair.js)|6 kyu|
+|9|[Calculate Average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/calculateAverage.js)|8 kyu|
