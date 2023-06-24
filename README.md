@@ -16,3 +16,4 @@
 |7|[The Office IV - Find Meeting Room](https://www.codewars.com/kata/57f604a21bd4fe771b00009c/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/theOfficeIV-FindAMeetingRoom.js)|7 kyu|
 |8|[The Office IV - Find a Chair](https://www.codewars.com/kata/57f6051c3ff02f3b7300008b/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/theOfficeV-FindChair.js)|6 kyu|
 |9|[Calculate Average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/calculateAverage.js)|8 kyu|
+|10|[Calculate Average](https://www.codewars.com/kata/5adadcb36edb07df5600092e/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/count7Wonders.js)|7 kyu|
