@@ -18,4 +18,5 @@
 |9|[Calculate Average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/calculateAverage.js)|8 kyu|
 |10|[Calculate Average](https://www.codewars.com/kata/5adadcb36edb07df5600092e/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/count7Wonders.js)|7 kyu|
 |11|[Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/solutions/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/isNarcissistic.js)|7 kyu|
-|12|[Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/sumOfMultiples.js)|7 kyu|
+|12|[Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/sumOfMultiples.js)|8 kyu|
+|13|[Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/countCharInString.js)|6 kyu|
