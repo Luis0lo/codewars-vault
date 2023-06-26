@@ -22,3 +22,4 @@
 |13|[Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/countCharInString.js)|6 kyu|
 |14|[Rectangle into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/rectangleIntoSquares.js)|6 kyu|
 |15|[Rectangle into Squares](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/multiplicationTable.js)|6 kyu|
+|16|[Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/reverseVowels.js)|6 kyu|
