@@ -21,3 +21,4 @@
 |12|[Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/sumOfMultiples.js)|8 kyu|
 |13|[Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/countCharInString.js)|6 kyu|
 |14|[Rectangle into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/rectangleIntoSquares.js)|6 kyu|
+|15|[Rectangle into Squares](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/multiplicationTable.js)|6 kyu|
