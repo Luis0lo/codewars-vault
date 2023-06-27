@@ -23,3 +23,4 @@
 |14|[Rectangle into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/rectangleIntoSquares.js)|6 kyu|
 |15|[Rectangle into Squares](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/multiplicationTable.js)|6 kyu|
 |16|[Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/reverseVowels.js)|6 kyu|
+|17|[The Shorterest Time](https://www.codewars.com/kata/5953c6f8af7ac14fd4000021/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/theShorterestTime.js)|6 kyu|
