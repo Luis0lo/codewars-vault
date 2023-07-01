@@ -25,5 +25,6 @@
 |16|[Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/reverseVowels.js)|6 kyu|
 |17|[The Shorterest Time](https://www.codewars.com/kata/5953c6f8af7ac14fd4000021/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/theShorterestTime.js)|6 kyu|
 |18|[Columnize](https://www.codewars.com/kata/6087bb6050a6230049a068f1/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/columnize.js)|6 kyu|
-|19|[Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/sumOddNumbers.js)|7 kyu|
+|19|[Sum of Odd Numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/sumOddNumbers.js)|7 kyu|
 |20|[Last Digits of a Number](https://www.codewars.com/kata/5cd5ba1ce4471a00256930c0/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/lastDigits.js)|7 kyu|
+|21|[Sum of Even Numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/sumEvenNumbers.js)|7 kyu|
