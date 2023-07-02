@@ -31,3 +31,5 @@
 |22|[Fix My Phone Number](https://www.codewars.com/kata/596343a24489a8b2a00000a2/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/fixMyPhoneNumber.js)|7 kyu|
 |23|[Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/leapYears.js)|7 kyu|
 |24|[Length of Missing Array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/lengthOfMissingArray.js)|6 kyu|
+|25|[Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/persistentBugger.js)|6 kyu|
+
