@@ -30,3 +30,4 @@
 |21|[Sum of Even Numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/sumEvenNumbers.js)|7 kyu|
 |22|[Fix My Phone Number](https://www.codewars.com/kata/596343a24489a8b2a00000a2/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/fixMyPhoneNumber.js)|7 kyu|
 |23|[Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/leapYears.js)|7 kyu|
+|24|[Length of Missing Array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/lengthOfMissingArray.js)|6 kyu|
