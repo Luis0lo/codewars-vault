@@ -32,4 +32,5 @@
 |23|[Leap Years](https://www.codewars.com/kata/526c7363236867513f0005ca/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/leapYears.js)|7 kyu|
 |24|[Length of Missing Array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/lengthOfMissingArray.js)|6 kyu|
 |25|[Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/persistentBugger.js)|6 kyu|
+|26|[Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/tenMinutesWalk.js)|6 kyu|
 
