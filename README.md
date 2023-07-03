@@ -34,4 +34,5 @@
 |25|[Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/persistentBugger.js)|6 kyu|
 |26|[Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/tenMinutesWalk.js)|6 kyu|
 |27|[Covert Integer to Whitespace](https://www.codewars.com/kata/55b350026cc02ac1a7000032/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/integerToWhitespace.js)|6 kyu|
+|28|[Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/findMissingLetter.js)|6 kyu|
 
