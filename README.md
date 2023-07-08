@@ -37,3 +37,4 @@
 |28|[Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/findMissingLetter.js)|6 kyu|
 |29|[Chaser Schedule](https://www.codewars.com/kata/628df6b29070907ecb3c2d83/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/chaserSchedule.js)|6 kyu|
 |30|[Ascend, Descend, Repeat?](https://www.codewars.com/kata/62ca07aaedc75c88fb95ee2f/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/ascendDescendRepeat.js)|6 kyu|
+|31|[Calculate Pyramid Height](https://www.codewars.com/kata/56968ce7753513604b000055/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/calculatePyramidHeight.js)|6 kyu|
