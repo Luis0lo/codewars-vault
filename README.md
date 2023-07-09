@@ -41,3 +41,4 @@
 |32|[ASCII Sierpiński Carpet](https://www.codewars.com/kata/630006e1b4e54c7a7e943679/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/asciiCarpet.js)|6 kyu|
 |33|[Maximum Sum Value of Ranges](https://www.codewars.com/kata/583d10c03f02f41462000137/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/maximumSumOfRanges.js)|6 kyu|
 |34|[Binary to Text](https://www.codewars.com/kata/5583d268479559400d000064/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/binaryToText.js)|6 kyu|
+|35|[Permute a Palindrome](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/permutePalindrome.js)|6 kyu|
