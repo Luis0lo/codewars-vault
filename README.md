@@ -42,3 +42,4 @@
 |33|[Maximum Sum Value of Ranges](https://www.codewars.com/kata/583d10c03f02f41462000137/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/maximumSumOfRanges.js)|6 kyu|
 |34|[Binary to Text](https://www.codewars.com/kata/5583d268479559400d000064/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/binaryToText.js)|6 kyu|
 |35|[Permute a Palindrome](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/permutePalindrome.js)|6 kyu|
+|36|[Arrh, grabscrab!](https://www.codewars.com/kata/52b305bec65ea40fe90007a7/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/arrhGrabscrab.js)|6 kyu|
