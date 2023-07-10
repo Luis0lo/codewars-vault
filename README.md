@@ -43,3 +43,5 @@
 |34|[Binary to Text](https://www.codewars.com/kata/5583d268479559400d000064/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/binaryToText.js)|6 kyu|
 |35|[Permute a Palindrome](https://www.codewars.com/kata/58ae6ae22c3aaafc58000079/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/permutePalindrome.js)|6 kyu|
 |36|[Arrh, grabscrab!](https://www.codewars.com/kata/52b305bec65ea40fe90007a7/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/arrhGrabscrab.js)|6 kyu|
+|38|[No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/noZerosForHeros.js)|8 kyu|
+
