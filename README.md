@@ -45,3 +45,5 @@
 |36|[Arrh, grabscrab!](https://www.codewars.com/kata/52b305bec65ea40fe90007a7/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/arrhGrabscrab.js)|6 kyu|
 |38|[No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/8kyu/noZerosForHeros.js)|8 kyu|
 |39|[Minimum Perimeter of a Rectangle](https://www.codewars.com/kata/5826f54cc60c7e5266000baf/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/minimumPerimeterRectangle.js)|7 kyu|
+|40|[Estimating Amounts of Subsets](https://www.codewars.com/kata/584703d76f6cf6ffc6000275/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/6kyu/estimatingAmountsSubsets.js)|6 kyu|
+|41|[Most Likely](https://www.codewars.com/kata/56644a421b7c94c622000056/train/javascript)|[Javascript](https://github.com/Luis0lo/codewars-vault/blob/main/7kyu/mostLikely.js)|7 kyu|
